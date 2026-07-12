@@ -38,7 +38,7 @@ for sn in wb.sheetnames:
 不可译（跳过、不乱写）：
 - 测试用例编号：`NT_DSDS_LTE_016`、`GPS_54`、`CLSET_37`、`EL-144`
 - 缩写 / 技术代号：`VoLTE`、`5G`、`DSDS`、`WFC`、`USSD`、`OOS`
-- 运营商 / 品牌 / 人名：`Airtel`、`JIO`、`VI`、`6759LV`、`郭伟豪`
+- 运营商 / 品牌 / 人名：`Airtel`、`JIO`、`VI`、`6759LV`
 - Excel 错误值：`#DIV/0!`、`#VALUE!`
 
 可译（进字典）：真正的英文短语、中文描述句、混合描述句。
